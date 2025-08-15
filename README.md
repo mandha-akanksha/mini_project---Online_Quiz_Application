@@ -18,7 +18,7 @@ I created a console-based Online Quiz Application in Java that asks multiple-cho
 ## Files Included:
 - Question.java --> Class to store question text, options, and correct answer
 - Quiz.java --> Class with quiz logic (asking questions, checking answers, scoring)
-- MainApp.java – Main class to run the application
+- MainApp.java --> Main class to run the application
   
 ## Steps I followed:
 - Created a Question class with variables for question text, options, and correct answer index
